@@ -1,0 +1,1 @@
+NEON CLICKER\n\nOpen index.html in a browser.\n30-second reaction game. Click neon targets to score.\n
